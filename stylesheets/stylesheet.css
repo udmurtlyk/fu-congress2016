@@ -16,7 +16,7 @@ header {
   top: 0;
   left: 0;
   z-index: -1;
-  height: 40vh;
+  min-height: 45vh;
   background: lightblue;
   display: -webkit-box;
   display: -webkit-flex;
