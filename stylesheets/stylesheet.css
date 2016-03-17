@@ -62,7 +62,8 @@ header a {
   font-size: 0.8rem;
 }
 header a:hover {
-  text-decoration: #999;
+  color: #999;
+  text-decoration: underline;
 }
 main {
   margin-top: 45vh;
