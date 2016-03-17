@@ -59,7 +59,7 @@ header p {
 header a {
   color: #eee;
   text-decoration: none;
-  font-sixe: 0.8rem;
+  font-size: 0.8rem;
 }
 header a:header {
   text-decoration: underline;
