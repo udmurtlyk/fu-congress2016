@@ -16,7 +16,7 @@ header {
   top: 0;
   left: 0;
   z-index: -1;
-  min-height: 45vh;
+  height: 45vh;
   background: lightblue;
   display: -webkit-box;
   display: -webkit-flex;
@@ -64,7 +64,7 @@ header a:header {
   text-decoration: underline;
 }
 main {
-  margin-top: 40vh;
+  margin-top: 45vh;
   background: -webkit-linear-gradient(top, #fefefe 0%, #bbb 100%);
   background: linear-gradient(top, #fefefe 0%, #bbb 100%);
   display: -webkit-box;
