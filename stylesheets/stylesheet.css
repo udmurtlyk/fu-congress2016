@@ -56,6 +56,13 @@ header p {
   text-align: center;
   font-size: 0.8rem;
 }
+header a {
+  color: #eee;
+  text-decoration: none;
+}
+header a:header {
+  text-decoration: underline;
+}
 main {
   margin-top: 40vh;
   background: -webkit-linear-gradient(top, #fefefe 0%, #bbb 100%);
